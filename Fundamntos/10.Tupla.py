@@ -29,3 +29,5 @@ dimensiones = (500,600)
 dimensionX, dimensionY = dimensiones
 print(dimensionX)
 print(dimensionY)
+
+# Convertir de una lista hacia auna tupla
